@@ -1,0 +1,182 @@
+[03-Apr-2016 20:37:06 UTC] PHP Warning:  include_once(partials/footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/VIRIDIS/admin/povrsina.php on line 106
+[03-Apr-2016 20:37:06 UTC] PHP Stack trace:
+[03-Apr-2016 20:37:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/povrsina.php:0
+[03-Apr-2016 20:37:06 UTC] PHP Warning:  include_once(): Failed opening 'partials/footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/VIRIDIS/admin/povrsina.php on line 106
+[03-Apr-2016 20:37:06 UTC] PHP Stack trace:
+[03-Apr-2016 20:37:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/povrsina.php:0
+[04-May-2016 21:41:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 154
+[04-May-2016 21:42:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 153
+[04-May-2016 21:42:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 153
+[04-May-2016 21:42:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 153
+[04-May-2016 21:43:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 78
+[04-May-2016 22:05:59 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 38
+[04-May-2016 22:05:59 UTC] PHP Stack trace:
+[04-May-2016 22:05:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[04-May-2016 22:08:21 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 51
+[04-May-2016 22:08:21 UTC] PHP Stack trace:
+[04-May-2016 22:08:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[04-May-2016 22:09:04 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 51
+[04-May-2016 22:09:04 UTC] PHP Stack trace:
+[04-May-2016 22:09:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[04-May-2016 22:10:00 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 51
+[04-May-2016 22:10:00 UTC] PHP Stack trace:
+[04-May-2016 22:10:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[04-May-2016 22:10:08 UTC] PHP Fatal error:  Call to undefined function mysql_fetch() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 51
+[04-May-2016 22:10:08 UTC] PHP Stack trace:
+[04-May-2016 22:10:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[04-May-2016 22:10:47 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 51
+[04-May-2016 22:10:47 UTC] PHP Stack trace:
+[04-May-2016 22:10:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[04-May-2016 22:15:37 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/VIRIDIS/baza/baze.php on line 234
+[04-May-2016 22:15:37 UTC] PHP Stack trace:
+[04-May-2016 22:15:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[04-May-2016 22:15:37 UTC] PHP   2. get_area_data() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:51
+[04-May-2016 22:15:37 UTC] PHP   3. array_push() /home/ubuntu/workspace/VIRIDIS/baza/baze.php:234
+[04-May-2016 22:15:59 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/VIRIDIS/baza/baze.php on line 234
+[04-May-2016 22:15:59 UTC] PHP Stack trace:
+[04-May-2016 22:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[04-May-2016 22:15:59 UTC] PHP   2. get_area_data() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:50
+[04-May-2016 22:15:59 UTC] PHP   3. array_push() /home/ubuntu/workspace/VIRIDIS/baza/baze.php:234
+[05-May-2016 15:30:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[05-May-2016 15:30:19 UTC] PHP Stack trace:
+[05-May-2016 15:30:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[05-May-2016 15:30:19 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[05-May-2016 15:30:26 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[05-May-2016 15:30:26 UTC] PHP Stack trace:
+[05-May-2016 15:30:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[05-May-2016 15:30:28 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[05-May-2016 15:30:28 UTC] PHP Stack trace:
+[05-May-2016 15:30:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[05-May-2016 15:30:33 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[05-May-2016 15:30:33 UTC] PHP Stack trace:
+[05-May-2016 15:30:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[05-May-2016 15:33:25 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[05-May-2016 15:33:25 UTC] PHP Stack trace:
+[05-May-2016 15:33:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[05-May-2016 15:45:01 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[05-May-2016 15:45:01 UTC] PHP Stack trace:
+[05-May-2016 15:45:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[05-May-2016 15:45:13 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[05-May-2016 15:45:13 UTC] PHP Stack trace:
+[05-May-2016 15:45:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[05-May-2016 15:45:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[05-May-2016 15:45:20 UTC] PHP Stack trace:
+[05-May-2016 15:45:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[05-May-2016 15:45:20 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[05-May-2016 15:56:00 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[05-May-2016 15:56:00 UTC] PHP Stack trace:
+[05-May-2016 15:56:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 14:20:31 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[06-May-2016 14:20:31 UTC] PHP Stack trace:
+[06-May-2016 14:20:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 14:20:33 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[06-May-2016 14:20:34 UTC] PHP Stack trace:
+[06-May-2016 14:20:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 14:20:38 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[06-May-2016 14:20:38 UTC] PHP Stack trace:
+[06-May-2016 14:20:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 14:20:40 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[06-May-2016 14:20:40 UTC] PHP Stack trace:
+[06-May-2016 14:20:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 14:20:42 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[06-May-2016 14:20:42 UTC] PHP Stack trace:
+[06-May-2016 14:20:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 14:20:46 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[06-May-2016 14:20:46 UTC] PHP Stack trace:
+[06-May-2016 14:20:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 14:23:35 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[06-May-2016 14:23:35 UTC] PHP Stack trace:
+[06-May-2016 14:23:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 14:23:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[06-May-2016 14:23:40 UTC] PHP Stack trace:
+[06-May-2016 14:23:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[06-May-2016 14:23:40 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[06-May-2016 14:23:46 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[06-May-2016 14:23:46 UTC] PHP Stack trace:
+[06-May-2016 14:23:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 14:24:03 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 50
+[06-May-2016 14:24:03 UTC] PHP Stack trace:
+[06-May-2016 14:24:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 14:38:18 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 51
+[06-May-2016 14:38:18 UTC] PHP Stack trace:
+[06-May-2016 14:38:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 14:48:10 UTC] PHP Fatal error:  Call to undefined function get_area_data() in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 51
+[06-May-2016 14:48:10 UTC] PHP Stack trace:
+[06-May-2016 14:48:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 16:27:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 158
+[06-May-2016 16:27:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 158
+[06-May-2016 16:27:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 158
+[06-May-2016 16:28:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 114
+[06-May-2016 17:20:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:58) in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 64
+[06-May-2016 17:20:26 UTC] PHP Stack trace:
+[06-May-2016 17:20:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 17:20:26 UTC] PHP   2. header() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:64
+[06-May-2016 17:20:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:58) in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 64
+[06-May-2016 17:20:44 UTC] PHP Stack trace:
+[06-May-2016 17:20:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:0
+[06-May-2016 17:20:44 UTC] PHP   2. header() /home/ubuntu/workspace/VIRIDIS/admin/projekti.php:64
+[06-May-2016 17:34:26 UTC] PHP Parse error:  syntax error, unexpected '$projekti' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 28
+[06-May-2016 17:36:41 UTC] PHP Parse error:  syntax error, unexpected '$projekti' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 28
+[06-May-2016 17:36:43 UTC] PHP Parse error:  syntax error, unexpected '$projekti' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/VIRIDIS/admin/projekti.php on line 28
+[07-May-2016 15:09:22 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/VIRIDIS/baza/baze.php on line 219
+[07-May-2016 15:09:22 UTC] PHP Stack trace:
+[07-May-2016 15:09:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/zaposlenici.php:0
+[07-May-2016 15:09:22 UTC] PHP   2. include_once() /home/ubuntu/workspace/VIRIDIS/admin/zaposlenici.php:2
+[07-May-2016 15:09:22 UTC] PHP   3. include() /home/ubuntu/workspace/VIRIDIS/partials/header_admin.php:3
+[07-May-2016 15:09:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/VIRIDIS/baza/baze.php on line 219
+[07-May-2016 15:09:29 UTC] PHP Stack trace:
+[07-May-2016 15:09:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/zaposlenici.php:0
+[07-May-2016 15:09:29 UTC] PHP   2. include_once() /home/ubuntu/workspace/VIRIDIS/admin/zaposlenici.php:2
+[07-May-2016 15:09:29 UTC] PHP   3. include() /home/ubuntu/workspace/VIRIDIS/partials/header_admin.php:3
+[07-May-2016 17:25:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[07-May-2016 17:25:16 UTC] PHP Stack trace:
+[07-May-2016 17:25:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[07-May-2016 17:25:16 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[07-May-2016 19:45:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[07-May-2016 19:45:19 UTC] PHP Stack trace:
+[07-May-2016 19:45:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[07-May-2016 19:45:19 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[02-Jul-2016 12:46:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[02-Jul-2016 12:46:23 UTC] PHP Stack trace:
+[02-Jul-2016 12:46:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[02-Jul-2016 12:46:23 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[02-Jul-2016 12:46:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[02-Jul-2016 12:46:25 UTC] PHP Stack trace:
+[02-Jul-2016 12:46:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[02-Jul-2016 12:46:25 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[02-Jul-2016 12:50:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[02-Jul-2016 12:50:07 UTC] PHP Stack trace:
+[02-Jul-2016 12:50:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[02-Jul-2016 12:50:07 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[02-Jul-2016 12:50:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[02-Jul-2016 12:50:48 UTC] PHP Stack trace:
+[02-Jul-2016 12:50:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[02-Jul-2016 12:50:48 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[02-Jul-2016 12:51:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[02-Jul-2016 12:51:05 UTC] PHP Stack trace:
+[02-Jul-2016 12:51:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[02-Jul-2016 12:51:05 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[02-Jul-2016 12:51:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[02-Jul-2016 12:51:21 UTC] PHP Stack trace:
+[02-Jul-2016 12:51:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[02-Jul-2016 12:51:21 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[02-Jul-2016 12:51:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[02-Jul-2016 12:51:22 UTC] PHP Stack trace:
+[02-Jul-2016 12:51:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[02-Jul-2016 12:51:22 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[02-Jul-2016 12:51:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[02-Jul-2016 12:51:49 UTC] PHP Stack trace:
+[02-Jul-2016 12:51:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[02-Jul-2016 12:51:49 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[02-Jul-2016 12:52:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/user/karteJSON.php on line 23
+[02-Jul-2016 12:52:26 UTC] PHP Stack trace:
+[02-Jul-2016 12:52:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/user/karteJSON.php:0
+[02-Jul-2016 12:52:26 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/user/karteJSON.php:23
+[18-Nov-2016 18:24:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[18-Nov-2016 18:24:41 UTC] PHP Stack trace:
+[18-Nov-2016 18:24:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[18-Nov-2016 18:24:41 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
+[24-Nov-2016 23:04:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php on line 23
+[24-Nov-2016 23:04:46 UTC] PHP Stack trace:
+[24-Nov-2016 23:04:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:0
+[24-Nov-2016 23:04:46 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/VIRIDIS/admin/karteJSON.php:23
